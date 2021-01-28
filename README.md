@@ -28,7 +28,7 @@ Bu katmanın soyut kısmında tüm varlıkların referansını tutabilecek bir I
 
 Business:
 
-Bu katman Abstract (soyut) kısım, Concrete (somut) kısım ve ValidationRules olmak üzere üç bölümden oluşmaktadır.
+Bu katman Abstract (soyut) kısım, Concrete (somut) kısım ve ValidationRules (dogrulama Kuralları) olmak üzere üç bölümden oluşmaktadır.
 
 Soyut kısımdaki IEntitiyService interface' i, somut kısımda bulunan GameManager.cs ve PlayerManager.cs' in referanslarını tutmak ve eş görevleri paylaştırmak üzere üretilmiştir.
 
